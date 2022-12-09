@@ -1,0 +1,13 @@
+#show-contact {
+    display: none;
+}
+
+button{
+    border: 0;
+    transition: .5s;
+    padding: 10px 30px;
+}
+button:hover{
+    /* transform: translateX(-10px); */
+    transform: translateY(-10px);
+}
